@@ -1,11 +1,6 @@
 {
   "expo": {
-    "android": {
-      "compileSdkVersion": 33,
-      "targetSdkVersion": 33,
-      "buildToolsVersion": "33.0.0",
-      "package": "com.storm1.nutriguardian"
-    },
+  
     "name": "bolt-expo-nativewind",
     "slug": "bolt-expo-nativewind",
     "version": "1.0.0",
